@@ -1,0 +1,4 @@
+.ignorateds/*
+.vscode
+venv/*
+*cache* 

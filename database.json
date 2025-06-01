@@ -1,0 +1,81 @@
+{
+  "Rio de Janeiro": {
+    "animals": {
+      "tartaruga_marinha": 12,
+      "boto_cor_de_rosa": 7,
+      "peixe_palhaco": 15,
+      "garoupa": 10
+    }
+  },
+  "Sydney": {
+    "animals": {
+      "ornitorrinco": 20,
+      "tubarão_branco": 30,
+      "polvo": 18,
+      "estrela_do_mar": 7
+    }
+  },
+  "Miami": {
+    "animals": {
+      "peixe_espada": 35,
+      "golfinho": 28,
+      "arraia": 15,
+      "camarão": 5
+    }
+  },
+  "Vancouver": {
+    "animals": {
+      "salmao": 20,
+      "foca": 30,
+      "bacalhau": 12,
+      "caranguejo": 10
+    }
+  },
+  "Cairo": {
+    "animals": {
+      "peixe_gato": 25,
+      "tilapia": 35,
+      "bagre": 20,
+      "tartaruga_de_agua_doce": 8
+    }
+  },
+  "Tokyo": {
+    "animals": {
+      "carpa": 30,
+      "polvo": 18,
+      "golfinho": 10,
+      "medusa": 5
+    }
+  },
+  "Manaus": {
+    "animals": {
+      "boto_cor_de_rosa": 40,
+      "pirarucu": 25,
+      "aruanã": 15,
+      "camarão_de_rio": 10
+    }
+  },
+  "Cape Town": {
+    "animals": {
+      "tubarão_branco": 35,
+      "foca": 20,
+      "peixe_leao": 15,
+      "moreia": 10
+    }
+  },
+  "Los Angeles": {
+    "animals": {
+      "tubarão_cabeça_chata": 25,
+      "golfinho": 20,
+      "polvo": 10
+    }
+  },
+  "Venice": {
+    "animals": {
+      "bivalve": 20,
+      "polvo": 15,
+      "golfinho": 25,
+      "camarão": 10
+    }
+  }
+}
